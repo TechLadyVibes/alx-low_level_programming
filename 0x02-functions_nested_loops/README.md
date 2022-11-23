@@ -1,1 +1,1 @@
-project Functions and nested loop
+In this directory i will be writing programs on C-nested loops
